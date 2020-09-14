@@ -1,0 +1,40 @@
+.flex {
+  display: flex;
+}
+.flex-column {
+  flex-direction: column;
+}
+.align-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.w-100 {
+  width: 100%;
+}
+.h-100vh {
+  height: 100vh;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.logo {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+.content {
+  background: #ffffff;
+}
+.items-container {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1.5rem;
+}
+.ant-transfer-list-header-dropdown{
+  display: none;
+}
